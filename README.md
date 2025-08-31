@@ -1,5 +1,8 @@
 # ctdp-pomodoro
-CTDP &amp; RSIP cross env pomodoro 
+
+随手给我点个小星星谢谢✨～
+<img width="1282" height="276" alt="image" src="https://github.com/user-attachments/assets/7a08fa44-9c6d-4ad7-88b0-a685eeac4fa3" />
+
 
 
 基于知乎大佬 [@edmond](https://www.zhihu.com/people/mount_cristo) 理论做的 ADHD 专用番茄钟 Obsidian 插件，电脑、手机端均可使用。
