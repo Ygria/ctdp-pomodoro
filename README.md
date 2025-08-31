@@ -7,6 +7,8 @@
 
 基于知乎大佬 [@edmond](https://www.zhihu.com/people/mount_cristo) 理论做的 ADHD 专用番茄钟 Obsidian 插件，电脑、手机端均可使用。
 
+网页版： https://obsidian-ctdp.pages.dev/
+
 参考原理网址 [# 如何提高自制力？](https://www.zhihu.com/question/19888447/answer/1930799480401293785)
 
 1. 延迟启动，现在就开始很有难度，但是预约几分钟后开始就没什么心理压力，用一个动作来给自己心理暗示开始
