@@ -10,3 +10,10 @@ CTDP &amp; RSIP cross env pomodoro
 2. 神圣座位和“下必为例”，一旦确定了每次任务的规则，就要确保遵守，可以修改规则，但也就让单个任务的含金量变低
 3. 链条。用连续打卡的激励➕断卡清零来双重保证任务完成
 4. 小步迭代，直到完美。准备做一个类似于文明里的科技树，根据任务成就来解锁加点。
+
+# 点击右侧Release，根据需求下载对应文件，开始使用！
+
+<img width="1358" height="551" alt="image" src="https://github.com/user-attachments/assets/d5a56ff7-3f49-4f3d-b2f3-6ab4eae19b07" />
+
+![image](https://github.com/user-attachments/assets/e32a6272-2733-468d-af99-1ae435100b3b)
+
