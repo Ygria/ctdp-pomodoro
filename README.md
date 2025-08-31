@@ -1,6 +1,6 @@
 # ctdp-pomodoro
 
-随手给我点个小星星谢谢✨～
+如果你喜欢这个项目，请随手给我点个小星星谢谢✨～
 <img width="1282" height="276" alt="image" src="https://github.com/user-attachments/assets/7a08fa44-9c6d-4ad7-88b0-a685eeac4fa3" />
 
 
